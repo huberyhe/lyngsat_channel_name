@@ -1,0 +1,474 @@
+<html>
+<head>
+<title>Atlantic - LyngSat</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="Atlantic lyngsat satellite frequency chart transponder mux TV radio Lyngemark analog digital channel MPEG-2 MPEG-4 AVC HEVC DVB DVB-S DVB-S2 DVB-S2X DSS ISDB Digicipher ABS NS3 NS4 FTA SR FEC SID PID PAL HD UHD Viaccess Conax Irdeto Mediaguard Cryptoworks Videoguard RAS BISS PowerVu free">
+<meta name="revisit-after" content="1 days">
+<base target="_top">
+<link href="misc/style.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor='moccasin' text='#000000' link='black' vlink='black'>
+
+<div align="center">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-17822891-1', 'lyngsat.com');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+
+</script>
+<!-- JavaScript -->
+<script>
+function LoadAction($company,$advert,$image,$height,$prio,$coverage,$leftright,$position) {
+  ga('send','event',$company+' '+$advert,'Impression',{'dimension1':$company,'dimension2':$advert,'dimension3':$image,'dimension4':'160x'+$height,'dimension5':$prio,'dimension6':$coverage+'%','dimension7':$leftright,'dimension8':$position});
+}
+function ClickAction($company,$advert,$image,$height,$prio,$coverage,$leftright,$position) {
+  ga('send','event',$company+' '+$advert,'Click',{'dimension1':$company,'dimension2':$advert,'dimension3':$image,'dimension4':'160x'+$height,'dimension5':$prio,'dimension6':$coverage+'%','dimension7':$leftright,'dimension8':$position});
+}
+</script>
+<!-- big table start -->
+<table width=1048 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td width="160" align="center" valign="top">
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td align='center'><font face='Arial' size=2><a href='http://www.lyngsat.com/advert.html'><font color='blue'><b>Advertisements</b></font></a></font></td></tr><tr align='center'>
+<td width=160 height=160><a href='http://www2.intelsat.com/Lyng-web2nov17-media ' target='_blank'><img src='/as9/intelsat-oct2017-160x160-v2.jpg' width=160 height=160 border=0 onload='LoadAction("Intelsat","int12d6","intelsat-oct2017-160x160-v2.jpg","160","3","80","L","0")' onclick='ClickAction("Intelsat","int12d6","intelsat-oct2017-160x160-v2.jpg","160","3","80","L","0");'></a></td>
+</tr>
+<tr align='center'>
+<td width=160 height=600><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LyngSat 160x600 #2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-9851824455959986"
+     data-ad-slot="1509965252"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+<tr align='center'>
+<td width=160 height=250>
+<table width=160 height=100 border=0 cellspacing=0 cellpadding=4 bgcolor="lightgreen">
+<tr><td align="left" colspan=2><font face="Arial" size=1 color="black"><i>News at <a href="http://www.lyngsat-stream.com/">LyngSat Stream</a>:</i></td></tr>
+<tr><td align="center" width=40 height=30><img src="/logo/tv/ss/syriana_radio_sy_tv.png" width=40 height=30></td><td align="left" width=115><font face="Arial" size=2><a href="http://www.lyngsat-stream.com/tvchannels/sy/Souryana-TV.html">Souryana TV</a></font></td></tr><tr><td align="center" width=40 height=30><img src="/logo/tv/aa/al_nada_tv.png" width=40 height=30></td><td align="left" width=115><font face="Arial" size=2><a href="http://www.lyngsat-stream.com/tvchannels/eg/Al-Nada-TV.html">Al Nada TV</a></font></td></tr><tr><td align="center" width=40 height=30><img src="/logo/flag/az/it.png" width=40 height=30></td><td align="left" width=115><font face="Arial" size=2><a href="http://www.lyngsat-stream.com/tvchannels/it/La-Tenda-TV.html">La Tenda TV</a></font></td></tr><tr><td align="center" width=40 height=30><img src="/logo/flag/az/es.png" width=40 height=30></td><td align="left" width=115><font face="Arial" size=2><a href="http://www.lyngsat-stream.com/tvchannels/es/Canal-Taronja-Anoia.html">Canal Taronja Anoia</a></font></td></tr><tr><td align="center" width=40 height=30><img src="/logo/tv/aa/amhara_tv_et.png" width=40 height=30></td><td align="left" width=115><font face="Arial" size=2><a href="http://www.lyngsat-stream.com/tvchannels/et/Amhara-TV.html">Amhara TV</a></font></td></tr><tr><td align="center" width=40 height=30><img src="/logo/tv/tt/tlc_us.png" width=40 height=30></td><td align="left" width=115><font face="Arial" size=2><a href="http://www.lyngsat-stream.com/tvchannels/us/TLC-Turkiye.html">TLC Türkiye</a></font></td></tr></table>
+</td>
+</tr>
+</table>
+</td>
+<td width=728 align="center" valign="top">
+<p>
+
+<table width=720 border=0 cellspacing=1 cellpadding=1>
+<tr valign="top">
+<td align="center" bordercolor=moccasin bgcolor=moccasin><font face="Arial" size=2>
+<a href="http://www.lyngsat.com/"><img src="images/lyngsat_210x48.gif" width=210 height=48 border=0></a>
+<br><br>
+<b><font face="Arial" size=5>Atlantic</font></b>
+</td>
+</tr>
+<tr valign="baseline">
+<td align="center" width=720>
+<table width=728 border=0 cellspacing=1 cellpadding=1><tr><td align='center' width=728 height=90><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LyngSat 728x90 #1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9851824455959986"
+     data-ad-slot="0188404002"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr></table></td>
+</tr>
+</table>
+<table width=720 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td><font size=3 color="#ff9C00"><b><img src="/images/pixel_brun.gif" width=720 height=1 vspace=4></b></td>
+</tr>
+</table>
+<table width=720 border=0 cellspacing=0 cellpadding=0 bgcolor="khaki">
+<tr align="center">
+<td align="left"><font face="Arial" size=2><b><a href="https://www.lyngsat.com/europe.html">Europe</a></b></td>
+<td align="center"><font face="Arial" size=2 color="#000000">
+<b><a href="https://www.lyngsat.com/index.html">Main</a>
+ | <a href="https://www.lyngsat.com/packages/atlantic.html">Atlantic <img src="/p.gif" height=15 width=15 align="absmiddle"></a>
+ | <a href="https://www.lyngsat.com/hd/atlantic.html">Atlantic  <img src="/hd.gif" height=15 width=25 align="absmiddle"></a>
+ | <a href="https://www.lyngsat.com/tracker/atlantic.html">Atlantic <img src="/map-mini.gif" height=15 width=30 align="absmiddle"></a>
+ | <a href="https://www.lyngsat.com/uhd/index.html">UHD</a>
+ | <a href="https://www.lyngsat.com/headlines.html">Headlines</a>
+ | <a href="https://www.lyngsat.com/launches/index.html">Launches</a>
+</td>
+<td align="right"><font face="Arial" size=2><b><a href="https://www.lyngsat.com/america.html">America</a></b></td>
+</tr>
+</table>
+<table width=720 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td><font size=3 color="#ff9C00"><b><img src="/images/pixel_brun.gif" width=720 height=1 vspace=4></b></td>
+</tr>
+</table>
+
+<script language="Javascript">
+<!--
+function dummy(){return}
+function ifc(f){window.status="IF: "+(5150-f)+" MHz"}
+function ifk1(f){window.status="IF: "+(f-10750)+" MHz"}
+function ifk2(f){window.status="IF: "+(f-11250)+" MHz"}
+//-->
+</script>
+
+<table width=720 align="center">
+<tr>
+<td valign="top" align="center">
+<table cellspacing=0 border>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 rowspan=4 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Thor-5-6-7-and-Intelsat-10-02.html">0.</font><font size=1>8</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Thor-7.html">Thor 7</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#80ffff align=center><font face="Verdana" size=1>171108</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Thor-5.html">Thor 5</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#d0ffff align=center><font face="Verdana" size=1>171017</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Thor-6.html">Thor 6</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#d0ffff align=center><font face="Verdana" size=1>171102</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-10-02.html">Intelsat 10-02</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170928</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/ABS-3A.html">3.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/ABS-3A.html">ABS 3A</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#80ffff align=center><font face="Verdana" size=1>171110</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 rowspan=2 bgcolor=khaki align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Amos-3-7.html">4.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Amos-7.html">Amos 7</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#80ffff align=center><font face="Verdana" size=1>171113</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Amos-3.html">Amos 3</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#80ffff align=center><font face="Verdana" size=1>171112</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Eutelsat-5-West-A.html">5.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Eutelsat-5-West-A.html">Eutelsat 5 West A</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#80ffff align=center><font face="Verdana" size=1>171111</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 rowspan=2 bgcolor=khaki align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Nilesat-201-and-Eutelsat-7-West-A.html">7.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Nilesat-201.html">Nilesat 201</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170914</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Eutelsat-7-West-A.html">Eutelsat 7 West A</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>171007</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Eutelsat-8-West-B.html">8.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Eutelsat-8-West-B.html">Eutelsat 8 West B</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#80ffff align=center><font face="Verdana" size=1>171111</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Express-AM44.html">11.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Express-AM44.html">Express AM44</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170913</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=khaki align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Eutelsat-12-West-B.html">12.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Eutelsat-12-West-B.html">Eutelsat 12 West B</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#d0ffff align=center><font face="Verdana" size=1>171105</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=khaki align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Express-AM8.html">14.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Express-AM8.html">Express AM8</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>171004</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=khaki align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Telstar-12-Vantage.html">15.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Telstar-12-Vantage.html">Telstar 12 Vantage</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170927</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-901.html">18.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-901.html">Intelsat 901</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>171008</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/NSS-7.html">20.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/NSS-7.html">NSS 7</a> <i><font face="Arial" size=1><a href="https://www.lyngsat.com/tracker/NSS-7.html">(incl. 2.<font size=1>1</font>°)</a></i></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>171011</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/SES-4.html">22.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/SES-4.html">SES 4</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#d0ffff align=center><font face="Verdana" size=1>171016</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-905.html">24.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-905.html">Intelsat 905</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#d0ffff align=center><font face="Verdana" size=1>171017</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-907.html">27.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-907.html">Intelsat 907</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170908</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 rowspan=2 bgcolor=khaki align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Hispasat-30W-4-30W-5.html">30.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Hispasat-30W-4.html">Hispasat 30W-4</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#d0ffff align=center><font face="Verdana" size=1>171021</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Hispasat-30W-5.html">Hispasat 30W-5</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#80ffff align=center><font face="Verdana" size=1>171108</td>
+</tr>
+</table>
+</td>
+
+<td valign="top" align="center">
+<table cellspacing=0 border>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-25.html">31.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-25.html">Intelsat 25</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>171006</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ffffff align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-903.html">31.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ffffff><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-903.html">Intelsat 903</a></td>
+<td width=20 bgcolor=#ffffff><font face="Arial"><font size=1></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1><br></td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ffffff align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Hylas-1.html">33.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ffffff><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Hylas-1.html">Hylas 1</a></td>
+<td width=20 bgcolor=#ffffff><font face="Arial"><font size=1></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1><br></td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#cccc66 align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-35e.html">34.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#cccc66><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-35e.html">Intelsat 35e</a></td>
+<td width=20 bgcolor=#cccc66><font face="Arial"><font size=1></font><font size=1> C</font></td>
+<td width=50 bgcolor=#d0ffff align=center><font face="Verdana" size=1>171105</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=khaki align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Eutelsat-36-West-A.html">36.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Eutelsat-36-West-A.html">Eutelsat 36 West A</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>171004</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ffffff align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Hispasat-36W-1.html">36.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ffffff><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Hispasat-36W-1.html">Hispasat 36W-1</a></td>
+<td width=20 bgcolor=#ffffff><font face="Arial"><font size=1></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1><br></td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 rowspan=2 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/NSS-10-and-Telstar-11N.html">37.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#cccc66><font face="Arial"><font size=2><a href="https://www.lyngsat.com/NSS-10.html">NSS 10</a></td>
+<td width=20 bgcolor=#cccc66><font face="Arial"><font size=1></font><font size=1> C</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170724</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Telstar-11N.html">Telstar 11N</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170307</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/SES-6.html">40.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/SES-6.html">SES 6</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#80c0ff align=center><font face="Verdana" size=1>171114</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 rowspan=2 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-11-and-Sky-Brasil-1.html">43.</font><font size=1>1</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-11.html">Intelsat 11</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#d0ffff align=center><font face="Verdana" size=1>171105</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Sky-Brasil-1.html">Sky Brasil 1</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170501</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-14.html">45.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-14.html">Intelsat 14</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#d0ffff align=center><font face="Verdana" size=1>171103</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ffffff align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/EchoStar-23.html">45.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ffffff><font face="Arial"><font size=2><a href="https://www.lyngsat.com/EchoStar-23.html">EchoStar 23</a></td>
+<td width=20 bgcolor=#ffffff><font face="Arial"><font size=1></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1><br></td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#cccc66 align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/NSS-806.html">47.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#cccc66><font face="Arial"><font size=2><a href="https://www.lyngsat.com/NSS-806.html">NSS 806</a></td>
+<td width=20 bgcolor=#cccc66><font face="Arial"><font size=1></font><font size=1> C</font></td>
+<td width=50 bgcolor=#d0ffff align=center><font face="Verdana" size=1>171106</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ffffff align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-29e.html">50.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ffffff><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-29e.html">Intelsat 29e</a></td>
+<td width=20 bgcolor=#ffffff><font face="Arial"><font size=1></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1><br></td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-23.html">53.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-23.html">Intelsat 23</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170525</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#cccc66 align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-34.html">55.</font><font size=1>5</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#cccc66><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-34.html">Intelsat 34</a></td>
+<td width=20 bgcolor=#cccc66><font face="Arial"><font size=1></font><font size=1> C</font></td>
+<td width=50 bgcolor=#80ffff align=center><font face="Verdana" size=1>171110</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Intelsat-21.html">58.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Intelsat-21.html">Intelsat 21</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170806</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 rowspan=3 bgcolor=#ded9ac align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Amazonas-2-3-4.html">61.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Amazonas-2.html">Amazonas 2</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170806</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=180 bgcolor=#ded9ac><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Amazonas-3.html">Amazonas 3</a></td>
+<td width=20 bgcolor=#ded9ac><font face="Arial"><font size=1></font><font size=1> CKu</font></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1>170929</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=180 bgcolor=khaki><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Amazonas-4.html">Amazonas 4</a></td>
+<td width=20 bgcolor=khaki><font face="Arial"><font size=1></font><font size=1> Ku</font></td>
+<td width=50 bgcolor=#80c0ff align=center><font face="Verdana" size=1>171114</td>
+</tr>
+<tr>
+<td bgcolor="salmon" width=1><font size=2>&nbsp;</font></td><td width=70 bgcolor=#ffffff align="center"><font face="Verdana"><font size=2><a href="https://www.lyngsat.com/Amazonas-5.html">61.</font><font size=1>0</font><font size=2>&#176;W</font></a></td>
+<td width=180 bgcolor=#ffffff><font face="Arial"><font size=2><a href="https://www.lyngsat.com/Amazonas-5.html">Amazonas 5</a></td>
+<td width=20 bgcolor=#ffffff><font face="Arial"><font size=1></td>
+<td width=50 bgcolor=#ffffff align=center><font face="Verdana" size=1><br></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>
+
+<table align="center">
+<tr>
+<td><font face="Arial" size=1>Colour codes on this regional index:</td>
+<td bgcolor=#ffffff><font face="Arial" size=1>no data/L/S/Ka band</td>
+<td bgcolor=#cccc66><font face="Arial" size=1>C band</td>
+<td bgcolor=#ded9ac><font face="Arial" size=1>C & Ku band</td>
+<td bgcolor=khaki><font face="Arial" size=1>Ku band</td>
+<td bgcolor=#cccccc><font face="Arial" size=1>moving</td>
+</tr>
+</table>
+
+<p>
+<p>
+
+<table width=720 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td><img src="/images/pixel_brun.gif" width=100% height=1 vspace=7></td>
+</tr>
+<tr align="center">
+<td>
+<table border=0 cellspacing=0 cellpadding=0>
+<tr align="center">
+<td align="center">
+<table width=728 border=0 cellspacing=1 cellpadding=1><tr><td align='center' width=728 height=90><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LyngSat 728x90 #2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9851824455959986"
+     data-ad-slot="8866439388"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr></table><p>
+
+  <table width=468 height=60 cellspacing=0 cellpadding=0 bordercolor="black" border=0>
+  <tr>
+  <td align="center" bordercolor="moccasin" bgcolor="moccasin"><font face="Arial" size=2>
+  The content on this site is protected by copyright. All rights reserved.  <br>
+  LyngSat is a registered trademark, owned by Lyngemark Satellite.  <br>
+  © Lyngemark Satellite  </td>
+  </tr>
+  </table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=720 border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td align="center">
+</td>
+</tr>
+</table>
+<td width="160" align="center" valign="top">
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td align='center'><font face='Arial' size=2><a href='http://www.lyngsat.com/advert.html'><font color='blue'><b>Advertisements</b></font></a></font></td></tr><tr align='center'>
+<td width=160 height=160><a href='http://goo.gl/4yrrcm' target='_blank'><img src='/as9/arabsat_v8.jpg' width=160 height=160 border=0 onload='LoadAction("Arabsat","ara02v03","arabsat_v8.jpg","160","3","100","R","0")' onclick='ClickAction("Arabsat","ara02v03","arabsat_v8.jpg","160","3","100","R","0");'></a></td>
+</tr>
+<tr align='center'>
+<td width=160 height=600><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LyngSat 160x600 #1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-9851824455959986"
+     data-ad-slot="1496632095"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+<tr align='center'>
+<td width=160 height=250>
+<table width=160 height=100 border=0 cellspacing=0 cellpadding=4 bgcolor="lemonchiffon">
+<tr><td align="left" colspan=2><font face="Arial" size=1 color="black"><i>News at <a href="http://www.lyngsat.com/">LyngSat</a>:</i></td></tr>
+<tr><td align="center" width=32 height=40><img src="/logo/tv/num/3-sport-af.png" width=32 height=24></td><td align="left" width=125><font face="Arial" size=2><a href="http://www.lyngsat.com/tvchannels/af/3-Sport.html">3 Sport</a> <font size=1><br>on <a href="https://www.lyngsat.com/Afghansat-1.html">Afghansat 1</font></a></font></td></tr><tr><td align="center" width=32 height=40><img src="/logo/tv/ss/shamshad_tv.png" width=32 height=24></td><td align="left" width=125><font face="Arial" size=2><a href="http://www.lyngsat.com/tvchannels/af/Shamshad-TV.html">Shamshad TV</a> <font size=1><br>on <a href="https://www.lyngsat.com/Afghansat-1.html">Afghansat 1</font></a></font></td></tr><tr><td align="center" width=32 height=40><img src="/logo/tv/zz/zhwandoon_tv_af.png" width=32 height=24></td><td align="left" width=125><font face="Arial" size=2><a href="http://www.lyngsat.com/tvchannels/af/Zhwandoon-TV.html">Zhwandoon TV</a> <font size=1><br>on <a href="https://www.lyngsat.com/Afghansat-1.html">Afghansat 1</font></a></font></td></tr><tr><td align="center" width=32 height=40><img src="/logo/tv/aa/aon_us.png" width=32 height=24></td><td align="left" width=125><font face="Arial" size=2><a href="http://www.lyngsat.com/tvchannels/us/Apostolic-Oneness-Network.html">Apostolic Oneness Network</a> <font size=1><br>on <a href="https://www.lyngsat.com/ABS-2.html">ABS 2</font></a></font></td></tr><tr><td align="center" width=32 height=40><img src="/logo/tv/ii/irt-ua.png" width=32 height=24></td><td align="left" width=125><font face="Arial" size=2><a href="http://www.lyngsat.com/tvchannels/ua/IRT.html">IRT</a> <font size=1><br>on <a href="https://www.lyngsat.com/Amos-7.html">Amos 7</font></a></font></td></tr><tr><td align="center" width=32 height=40><img src="/logo/tv/ff/foursquare-tv-ng.png" width=32 height=24></td><td align="left" width=125><font face="Arial" size=2><a href="http://www.lyngsat.com/tvchannels/ng/Foursquare-TV.html">Foursquare TV</a> <font size=1><br>on <a href="https://www.lyngsat.com/Intelsat-20.html">Intelsat 20</font></a></font></td></tr></table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- big table end -->
+</div>
+</body>
+</html>
